@@ -1,0 +1,3646 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9803139,
+                    22.24027778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-042"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9979444,
+                    22.48784444
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5069"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2215694,
+                    22.52817222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5070"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-020"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-037"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3014056,
+                    22.37565833
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-098"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3330889,
+                    22.43900556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-076"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-086"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9389028,
+                    22.42508333
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2231,
+                    22.24578611
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5072"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-044"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-21-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2636944,
+                    22.37204722
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5073"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-038"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9389028,
+                    22.42508333
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-072"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2636944,
+                    22.37204722
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-046"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2553528,
+                    22.35351389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2553528,
+                    22.35351389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2231,
+                    22.24578611
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-091"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2195694,
+                    22.52633333
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9803139,
+                    22.24027778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9803139,
+                    22.24027778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2231,
+                    22.24578611
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2231,
+                    22.24578611
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-030"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-036"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5077"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5075"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5076"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3270972,
+                    22.46111111
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-XX-326"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9189444,
+                    22.21916667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-032"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2537694,
+                    22.5449
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2524917,
+                    22.35437778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2636944,
+                    22.37204722
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9389028,
+                    22.42508333
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-073"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-040"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.868183,
+                    22.2522472
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-099"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2087167,
+                    22.53383056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-089"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9189444,
+                    22.21916667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9389028,
+                    22.42508333
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-070"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-090"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2849889,
+                    22.39533056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-094"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0295278,
+                    22.49141667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9803139,
+                    22.24027778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2231,
+                    22.24578611
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-092"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-15-002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-019"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3330889,
+                    22.43900556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-119"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5080"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-15-003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3330889,
+                    22.43900556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-077"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2258056,
+                    22.52855556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256175,
+                    22.53801389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-087"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2274333,
+                    22.53016389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "ZRC_pending"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-039"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-18-025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-047"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3221333,
+                    22.39791667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-034"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-15-004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5084"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-102"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-012"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9979444,
+                    22.48784444
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5086"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.983058,
+                    22.469155
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3330889,
+                    22.43900556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2624778,
+                    22.52608056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5087"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-080"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0295278,
+                    22.49141667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5089"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0295278,
+                    22.49141667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0295278,
+                    22.49141667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5090"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-043"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2471611,
+                    22.54445278
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.208225,
+                    22.5257
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-090"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-096"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0295278,
+                    22.49141667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-068"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9189444,
+                    22.21916667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-086"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-095"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9389028,
+                    22.42508333
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-075"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0295278,
+                    22.49141667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5091"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2624778,
+                    22.52608056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-080"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.863175,
+                    22.24914167
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-045"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2471611,
+                    22.54445278
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-XX-327"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2195694,
+                    22.52633333
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2624778,
+                    22.52608056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-18-023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3014056,
+                    22.37565833
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5092"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256175,
+                    22.53801389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9189444,
+                    22.21916667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-084"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9189444,
+                    22.21916667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2537694,
+                    22.5449
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-031"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-082 OR 083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-082 OR 083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-075"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3221333,
+                    22.39791667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-18-024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0295278,
+                    22.49141667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "NCHUZOOL15745"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-084"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3221333,
+                    22.39791667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-069"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2139722,
+                    22.473
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5093"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0295278,
+                    22.49141667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9189444,
+                    22.21916667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-033"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-035"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2849889,
+                    22.39533056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-120"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-006"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-076"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-15-005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-077"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-16-081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5094"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2874472,
+                    22.42583889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "MZUF 5095"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2524917,
+                    22.35437778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-097"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.863175,
+                    22.24914167
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-20-029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2231,
+                    22.24578611
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-CRU-17-093"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.868183,
+                    22.2522472
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-069"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9803139,
+                    22.24027778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-033"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2842528,
+                    22.44235278
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-17-158"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3221333,
+                    22.39791667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-054"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2624778,
+                    22.52608056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.868183,
+                    22.2522472
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-060"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-056"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.868183,
+                    22.2522472
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-063"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-058"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-064"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-057"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-065"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2456111,
+                    22.43097222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2715,
+                    22.51557222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-17-159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2715,
+                    22.51557222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-17-160"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3007722,
+                    22.45451944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-17-163"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-17-157"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2734056,
+                    22.50763889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-17-161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2734056,
+                    22.50763889
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-17-162"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256175,
+                    22.53801389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-097"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-055"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9979444,
+                    22.48784444
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-066"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-062"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-006"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-012"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-068"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2258056,
+                    22.52855556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-027"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2258056,
+                    22.52855556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-030"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2258056,
+                    22.52855556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-031"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2258056,
+                    22.52855556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-032"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9468361,
+                    22.439475
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-028"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3270972,
+                    22.46111111
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-019"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3270972,
+                    22.46111111
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-020"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.26865,
+                    22.42132222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-012"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3270972,
+                    22.46111111
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-072"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-070"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-128"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-077"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-075"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-076"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-073"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-080"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-119"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-120"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256175,
+                    22.53801389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-098"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-086"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256175,
+                    22.53801389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-099"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-084"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2087167,
+                    22.53383056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2087167,
+                    22.53383056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-102"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2087167,
+                    22.53383056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2087167,
+                    22.53383056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-087"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2258056,
+                    22.52855556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2258056,
+                    22.52855556
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2087167,
+                    22.53383056
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-088"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3335667,
+                    22.42871944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-125"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-094"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-095"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-096"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.256175,
+                    22.53801389
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-089"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-090"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-091"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-092"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9625861,
+                    22.45182222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2069361,
+                    22.52947778
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-093"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9189444,
+                    22.21916667
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2715,
+                    22.51557222
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-18-126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-20-004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9285778,
+                    22.28061944
+                ]
+            },
+            "properties": {
+                "catalogNumber": "SWIMS-MOL-19-017"
+            }
+        }
+    ]
+}

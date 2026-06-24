@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive xmlns="http://rs.tdwg.org/dwc/text/">
+  <core encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="0" rowType="http://rs.tdwg.org/dwc/terms/Occurrence">
+    <files>
+      <location>occurrence.tsv</location>
+    </files>
+    <id index="0"/>
+    <field index="0" term="http://rs.tdwg.org/dwc/terms/occurrenceID"/>
+<field index="1" term="http://rs.tdwg.org/dwc/terms/class"/>
+<field index="2" term="http://rs.tdwg.org/dwc/terms/order"/>
+<field index="3" term="http://rs.tdwg.org/dwc/terms/family"/>
+<field index="4" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+<field index="5" term="http://rs.tdwg.org/dwc/terms/otherCatalogNumbers"/>
+<field index="6" term="http://rs.tdwg.org/dwc/terms/associatedSequences"/>
+<field index="7" term="http://rs.tdwg.org/dwc/terms/catalogNumber"/>
+<field index="8" term="http://rs.tdwg.org/dwc/terms/locality"/>
+<field index="9" term="http://rs.tdwg.org/dwc/terms/decimalLatitude"/>
+<field index="10" term="http://rs.tdwg.org/dwc/terms/decimalLongitude"/>
+<field term="http://rs.tdwg.org/dwc/terms/basisOfRecord" default="MaterialSample"/>
+</core>
+</archive>

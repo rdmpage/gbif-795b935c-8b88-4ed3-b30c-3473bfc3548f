@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:dc="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" packageId="" system="http://gbif.org" scope="system">
+  <dataset>
+    <alternateIdentifier>10.1186/s12862-021-01914-6</alternateIdentifier>
+    <title xml:lang="eng">A DNA barcode library for mangrove gastropods and crabs of Hong Kong and the Greater Bay Area reveals an unexpected faunal diversity associated with the intertidal forests of Southern China</title>
+    <creator>
+      <individualName>
+        <givenName>Henrique</givenName>
+        <surName>Bravo</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Christine L. Y.</givenName>
+        <surName>Cheng</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Alessio</givenName>
+        <surName>Iannucci</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Chiara</givenName>
+        <surName>Natali</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Aline</givenName>
+        <surName>Quadros</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Martin</givenName>
+        <surName>Rhodes</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Matthew M. L.</givenName>
+        <surName>Yip</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Stefano</givenName>
+        <surName>Cannicci</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Sara</givenName>
+        <surName>Fratini</surName>
+      </individualName>
+    </creator>
+    <metadataProvider>
+      <individualName>
+        <givenName>Roderic</givenName>
+        <surName>Page</surName>
+      </individualName>
+      <electronicMailAddress>rdmpage@gmail.com</electronicMailAddress>
+      <userId directory="http://orcid.org/">0000-0002-7101-9767</userId>
+    </metadataProvider>
+    <pubDate>2021-09-23</pubDate>
+    <abstract>
+      <para>AbstractBackgroundMangroves are tropical and subtropical intertidal forests colonising sheltered coasts across the world. They host a unique faunal community, dominated by brachyuran crabs and gastropods. These invertebrates strongly contribute to the functionality of the entire forest. The reliable assessment of mangrove faunal diversity is, thus, a crucial step for efficient management and conservation plans, but it is hindered by difficulties in species identification. Here we provide a verified DNA barcode library for brachyuran crabs and gastropods inhabiting the mangroves of the Greater Bay Area, Southern China. In particular, we collected and morphologically identified 1100 specimens of mangrove associated brachyuran crabs and gastropods. The partial sequences of the mtDNA cytochrome oxidase subunit I gene were obtained from 275 specimens. Barcode sequences were then used to delineate Molecular Operational Taxonomic Units (MOTUs), employing three different delimitation methods: the automatic barcode gap discovery (ABGD) method, the general mixed Yule coalescent (GMYC) model and a Bayesian implementation of the Poisson tree processes (bPTP) model.ResultsBy integrating DNA barcodes with morphology, we identified 44 gastropod species and 58 brachyuran species associated with Hong Kong mangroves, with five and seven new records, for gastropods and crabs, respectively, for the Greater Bay Area. The delineation of MOTUs based on barcode sequences revealed a strong congruence between morphological and molecular identification for both taxa, showing the high reliability of the barcode library.ConclusionsThis study provides the first reference barcode library for mangrove-associated macrobenthic fauna in the Greater Bay Area and represents a reliable tool to management and conservation plans. Our molecular analyses resolved long lasting taxonomic misidentifications and inconsistencies and updated the knowledge on the geographical distribution of Asian mangrove associated fauna, ultimately highlighting a level of biodiversity higher than previously thought for Southern China.</para>
+    </abstract>
+    <intellectualRights>
+      <para>This work is licensed under a <ulink url="https://creativecommons.org/licenses/by/4.0"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+    </intellectualRights>
+    <contact>
+      <individualName>
+        <givenName>Roderic</givenName>
+        <surName>Page</surName>
+      </individualName>
+      <electronicMailAddress>rdmpage@gmail.com</electronicMailAddress>
+      <userId directory="http://orcid.org/">0000-0002-7101-9767</userId>
+    </contact>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2026-06-24T15:23:09+00:00</dateStamp>
+        <bibliography>
+          <citation identifier="10.1186/s12862-021-01914-6">Bravo, H., Cheng, C. L. Y., Iannucci, A., Natali, C., Quadros, A., Rhodes, M., Yip, M. M. L., Cannicci, S., &amp;#38; Fratini, S. (2021). A DNA barcode library for mangrove gastropods and crabs of Hong Kong and the Greater Bay Area reveals an unexpected faunal diversity associated with the intertidal forests of Southern China. In BMC Ecology and Evolution (Vols. 21, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1186/s12862-021-01914-6</citation>
+        </bibliography>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
