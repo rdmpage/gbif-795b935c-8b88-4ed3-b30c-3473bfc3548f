@@ -34,4 +34,23 @@ zip dwca.zip eml.xml meta.xml occurrence.tsv
 
 Next we need to check that the DwC-A file is valid using the [GBIF Data Validator](https://tools.gbif.org/tools/data-validator).
 
+## Step 3 Create endpoint
+
+Now we need to tell GBIF where to get the data. In this example, the Darwin Core Archive file is hosted by Github as a release. 
+We can tell GitHub to ignore extraneous files by adding them to `.gitattributes`, but the files created by GitHub are not the ones we want. Instead, take the validated DWCA zip file created in step 2 and add that as a binary file to the release. The direct URL to the latest release will be `https://github.com/rdmpage/<repository>/releases/latest/download/dwca.zip`, e.g. https://github.com/rdmpage/gbif-795b935c-8b88-4ed3-b30c-3473bfc3548f/releases/latest/download/dwca.zip. We tell GBIF this by POSTing to the `endpoint` URL:
+
+http://api.gbif.org/v1/dataset/gbif-795b935c-8b88-4ed3-b30c-3473bfc3548f/endpoint
+
+POST
+```javascript
+{
+  "type":"DWC_ARCHIVE",
+  "url":"https://github.com/rdmpage/gbif-795b935c-8b88-4ed3-b30c-3473bfc3548f/releases/latest/download/dwca.zip"
+}
+```
+
+## Step 4
+
+Wait for GBIF to index the data. After a few minutes the data should start appearing in GBIF maps and searches.
+
 
