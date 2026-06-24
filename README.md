@@ -24,3 +24,14 @@ RESPONSE
 
 We now have a UUID for the dataset, which lives here: https://www.gbif.org/dataset/<UUID>
 
+## Step 2 Create and validate Darwin Core archive
+
+Now we need to create the Darwin Core archive, which is simply a zip file):
+
+```
+zip dwca.zip eml.xml meta.xml occurrence.tsv
+```
+
+Next we need to check that the DwC-A file is valid using the [GBIF Data Validator](https://tools.gbif.org/tools/data-validator).
+
+
