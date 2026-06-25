@@ -84,9 +84,9 @@
   <additionalMetadata>
     <metadata>
       <gbif>
-        <dateStamp>2026-06-24T15:23:09+00:00</dateStamp>
+        <dateStamp>2026-06-25T03:13:29+00:00</dateStamp>
         <bibliography>
-          <citation identifier="10.1186/s12862-021-01914-6">Bravo, H., Cheng, C. L. Y., Iannucci, A., Natali, C., Quadros, A., Rhodes, M., Yip, M. M. L., Cannicci, S., &amp;#38; Fratini, S. (2021). A DNA barcode library for mangrove gastropods and crabs of Hong Kong and the Greater Bay Area reveals an unexpected faunal diversity associated with the intertidal forests of Southern China. In BMC Ecology and Evolution (Vols. 21, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1186/s12862-021-01914-6</citation>
+          <citation identifier="https://doi.org/10.1186/s12862-021-01914-6">Bravo, H., Cheng, C. L. Y., Iannucci, A., Natali, C., Quadros, A., Rhodes, M., Yip, M. M. L., Cannicci, S., &amp;#38; Fratini, S. (2021). A DNA barcode library for mangrove gastropods and crabs of Hong Kong and the Greater Bay Area reveals an unexpected faunal diversity associated with the intertidal forests of Southern China. In BMC Ecology and Evolution (Vols. 21, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1186/s12862-021-01914-6</citation>
         </bibliography>
       </gbif>
     </metadata>
